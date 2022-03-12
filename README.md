@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @FlavioCestMoi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C#, python and a little C++
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me : don't reach me
+
